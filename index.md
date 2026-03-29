@@ -55,7 +55,6 @@
 ### **4. [Project: Open-Source Vision Foundation Model]**
 * **Description:** 소량의 데이터로도 완벽하게 사물을 인식하는 범용 비전 모델(Foundation Model) 배포.
 * **Core Tech:** Segment Anything Model (SAM) 파인튜닝, OpenCV 6.0 Core API.
-* **🎥 기술 시연 영상:** [Meta AI - Segment Anything Model Demo](https://www.youtube.com/watch?v=R3V_vP2Z9L8)
 
 ---
 
