@@ -18,7 +18,7 @@
 ## 🎓 학력 (High-Level Education)
 
 | 기간 | 기관 | 전공 | 비고 |
-| :--- | :--- | :--- | :--- |
+| --- | --- | --- | --- |
 | 2022.03 - 2028.02 | **광운대학교 정보융합학부** | 데이터 사이언스 | **수석 졸업 (Summa Cum Laude)** |
 | 2028.03 - (예정) | **Stanford University** | Computer Science (Ph.D.) | AI Vision Lab 전액 장학생 선정 |
 
