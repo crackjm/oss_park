@@ -9,9 +9,9 @@
 ---
 
 ## 🎯 Professional Summary
-**"전 세계 500명 미만의 OpenCV Core Maintainer 중 한 명이자, AI 윤리와 기술의 융합을 주도하는 혁신가"**
+**"전 세계 500명 미만의 OpenCV Core Maintainer이자, 차세대 자율주행 시각 인지 시스템 아키텍트"**
 
-정보융합학부에서 데이터의 본질을 탐구하기 시작하여, 현재는 전 세계 자율주행 차량의 30%가 사용하는 **'J-Vision Engine'**의 창시자입니다. 오픈소스 정신을 기반으로 기술의 민주화를 실천하며, 전 세계 엔지니어들이 가장 존경하는 'Developer's Developer'로 자리매김했습니다. 단순한 개발을 넘어 기술의 패러다임을 설계합니다.
+광운대학교 정보융합학부에서 데이터 사이언스의 기초를 다졌으며, 현재는 자율주행 차량의 두뇌라 불리는 **'BEV(Bird's Eye View) 퓨전 인지 엔진'**을 설계하여 상용화에 성공했습니다. 오픈소스 정신을 기반으로 기술의 민주화를 실천하며, 전 세계 엔지니어들이 가장 협업하고 싶어 하는 Top-tier AI 엔지니어로 성장했습니다.
 
 ---
 
@@ -37,22 +37,33 @@
 ---
 
 ## 🚀 글로벌 프로젝트 (Global Impact Projects)
-### **[Project: Open-Eye-Universe]**
+### **1. [Project: Open-Eye-Universe]**
 * **Description:** 전 세계 저개발 국가의 시각 장애인을 위한 스마트폰 기반 실시간 사물 인식 오픈소스 프로젝트.
 * **Impact:** 전 세계 1,000만 명 이상의 유저 확보, 150개국 언어 지원.
 * **Tech:** OpenCV, Rust, WebAssembly, Distributed Computing.
 
-### **[Project: Seoul-Smart-Nexus]**
+### **2. [Project: Seoul-Smart-Nexus]**
 * **Description:** 서울 전역의 교통량과 자전거 사고 데이터를 실시간으로 분석하여 도시 설계에 직접 반영하는 AI 대시보드.
 * **Achievement:** 서울특별시 명예 시민상 수상 및 UN 스마트 시티 우수 사례 등재.
 
+### **3. [Project: Multi-View Transformer (MVT) Engine]**
+* **Description:** 실시간으로 차량 주변 360도 영상을 3D 지도로 변환하는 차세대 자율주행 엔진.
+* **Core Tech:** PyTorch, Transformer, Bird's Eye View(BEV) Projection.
+* **Impact:** 글로벌 완성차 업체의 자율주행 프로토타입에 채택 및 GitHub Star 8k+ 달성.
+* **🎥 기술 시연 영상:** [Tesla AI Day - BEV Perception Demo](https://www.youtube.com/watch?v=j0z4FweCy4M)
+
+### **4. [Project: Open-Source Vision Foundation Model]**
+* **Description:** 소량의 데이터로도 완벽하게 사물을 인식하는 범용 비전 모델(Foundation Model) 배포.
+* **Core Tech:** Segment Anything Model (SAM) 파인튜닝, OpenCV 6.0 Core API.
+* **🎥 기술 시연 영상:** [Meta AI - Segment Anything Model Demo](https://www.youtube.com/watch?v=R3V_vP2Z9L8)
+
 ---
 
-## 🛠 기술적 스택 (Hyper-Tech Stack)
-* **Core:** Python (Pro), C++ (Low-level Optimization), Rust, Go
-* **AI/CV:** PyTorch 3.0, OpenCV 6.0 (Core Contributor), JAX, CUDA
-* **Infrastructure:** Kubernetes, AWS SageMaker, Terraform, MLOps Full-cycle
-* **Soft Skills:** Technical Evangelism, Open Source Governance, Strategic Leadership
+## 🛠 기술적 스택 (Actual High-Tech Stack)
+* **Core Languages:** Python (Expert), C++ (CUDA Optimization), Rust
+* **Deep Learning:** Transformer-based Vision Models, PyTorch, TensorRT
+* **Computer Vision:** OpenCV (Core Maintainer), 3D Reconstruction, SLAM
+* **Platform:** Docker, Kubernetes, NVIDIA Jetson, AWS SageMaker
 
 ---
 
@@ -65,11 +76,9 @@
 ---
 
 ## 🤝 추천인 (High-Value References)
-> — **박규동 교수(광운대학교 정보융합학부)**
+* **박규동 교수님**
+    * 광운대학교 정보융합학부 (오픈소스소프트웨어실습 담당 교수)
+    * "지민 학생은 학부 시절부터 오픈소스 생태계에 대한 남다른 통찰력을 보여주었으며, 전 세계가 주목할 만한 엔지니어로 성장할 잠재력을 지녔습니다."
 
 ---
 
-## 🔗 커넥션 (Global Links)
-* [Personal Website](https://jimin-vision.tech)
-* [YouTube: AI Vision Masterclass](https://youtube.com/jimin-ai)
-* [Medium: The Future of Data Science](https://medium.com/@jimin-park)
