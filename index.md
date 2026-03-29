@@ -1,14 +1,10 @@
 # 🌌 [FUTURE CV] Global AI Vision Pioneer: 박지민 (Park Jimin)
 
-> **🚀 "Seeing the Unseen, Programming the Future."** > **본 문서는 '오픈소스소프트웨어실습' 과제를 위해 작성된 미래 지향적 하이엔드 가상 이력서입니다.**
-
----
-
 ## 👤 개인 프로필 (Identity)
 * **Name:** 박지민 (Park Jimin)
 * **Title:** Open Source Evangelist & AI Vision Architect
-* **Email:** ceo@jimin-vision.tech
-* **Address:** Palo Alto, California / Seoul, Korea
+* **Email:** jisuminpark@gmail.com
+* **Address:** Seoul, Korea
 * **Stack Overflow:** [Top 0.01% Contributor](https://stackoverflow.com/users/jimin-park)
 * **GitHub:** [github.com/jimin-global-vision](https://github.com/jimin-global-vision)
 
@@ -24,8 +20,8 @@
 ## 🎓 학력 (High-Level Education)
 | 기간 | 기관 | 전공 | 비고 |
 | :--- | :--- | :--- | :--- |
-| 2022.03 - 2026.08 | **OO대학교 정보융합학부** | 데이터 사이언스 & 지능형 시스템 | **수석 졸업 (Summa Cum Laude)** |
-| 2026.09 - (예정) | **Stanford University** | Computer Science (Ph.D.) | AI Vision Lab 전액 장학생 선정 |
+| 2022.03 - 2028.02 | **광운대학교 정보융합학부** | 데이터 사이언스 | **수석 졸업 (Summa Cum Laude)** |
+| 2028.03 - (예정) | **Stanford University** | Computer Science (Ph.D.) | AI Vision Lab 전액 장학생 선정 |
 
 ---
 
@@ -71,8 +67,7 @@
 ---
 
 ## 🤝 추천인 (High-Value References)
-> "지민님은 제가 지난 20년간 만난 학생 중 가장 천재적인 직관을 가진 인재입니다. 그는 단순히 코드를 작성하는 것이 아니라, 기술의 미래를 조각합니다."
-> — **오픈소스소프트웨어실습 담당 교수 (OO대학교 정보융합학부)**
+> — **박규동 교수(광운대학교 정보융합학부)**
 
 ---
 
