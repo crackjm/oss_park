@@ -5,8 +5,6 @@
 * **Title:** Open Source Evangelist & AI Vision Architect
 * **Email:** jisuminpark@gmail.com
 * **Address:** Seoul, Korea
-* **Stack Overflow:** [Top 0.01% Contributor](https://stackoverflow.com/users/jimin-park)
-* **GitHub:** [github.com/jimin-global-vision](https://github.com/jimin-global-vision)
 
 ---
 
